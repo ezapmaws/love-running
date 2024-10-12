@@ -46,7 +46,7 @@ header #menu {
     list-style-type: none;
     font-size: 110%;
     letter-spacing: 4px;
-    text-decoration: none;
+    /* text-decoration: none; */
 }
 
 #menu > li {
@@ -55,7 +55,7 @@ header #menu {
 
 .active {
     border-bottom: 1px solid #3a3a3a;
-    text-decoration: none;
+    /* text-decoration: none; */
 }
 
 /* main */
